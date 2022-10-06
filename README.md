@@ -1,9 +1,26 @@
-Live URL - https://sneakers-single-page-ecom.netlify.app/
 
-This single-page e-commerce store is created using HTML, CSS, and Javascript.
+# .Sneaker
 
-It is a desktop-first website hence it is not completely optimized for all mobile screen sizes however media query starts at a max-width of 768px.
+This single-page e-commerce storefront is created using HTML, CSS, and Javascript.
 
-A major chunk of CSS properties includes flexbox along with relative and absolute positioning.
+It is created with the intention of implementing the fundamentals of javascript especially.
 
-In Javascript, forEach loop is widely used along with click events and DOM manipulation.
+Media queries starts at 768px however it is not completely responsive for all mobile devices.
+
+
+## Demo
+
+https://sneakers-single-page-ecom.netlify.app/
+## CSS:-
+
+- Flexbox
+- Absolute and Relative Position
+- Media queries
+- Psuedo Selectors
+
+## Javascript:-
+- ForEach Loop
+- Click Events
+- State Management 
+- Nested Objects
+
